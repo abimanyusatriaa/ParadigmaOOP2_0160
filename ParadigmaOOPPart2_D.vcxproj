@@ -24,6 +24,7 @@
     <ProjectGuid>{e0b9545a-eb44-42d7-9702-a803c4d87fef}</ProjectGuid>
     <RootNamespace>ParadigmaOOPPart2D</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>polymorphy</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
