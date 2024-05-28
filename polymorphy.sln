@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParadigmaOOPPart2_D", "ParadigmaOOPPart2_D.vcxproj", "{E0B9545A-EB44-42D7-9702-A803C4D87FEF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "noOveriding", "noOveriding\noOveriding.vcxproj", "{F56E95B8-09A3-4083-AE12-7274D39F12DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{E0B9545A-EB44-42D7-9702-A803C4D87FEF}.Release|x64.Build.0 = Release|x64
 		{E0B9545A-EB44-42D7-9702-A803C4D87FEF}.Release|x86.ActiveCfg = Release|Win32
 		{E0B9545A-EB44-42D7-9702-A803C4D87FEF}.Release|x86.Build.0 = Release|Win32
+		{F56E95B8-09A3-4083-AE12-7274D39F12DC}.Debug|x64.ActiveCfg = Debug|x64
+		{F56E95B8-09A3-4083-AE12-7274D39F12DC}.Debug|x64.Build.0 = Debug|x64
+		{F56E95B8-09A3-4083-AE12-7274D39F12DC}.Debug|x86.ActiveCfg = Debug|Win32
+		{F56E95B8-09A3-4083-AE12-7274D39F12DC}.Debug|x86.Build.0 = Debug|Win32
+		{F56E95B8-09A3-4083-AE12-7274D39F12DC}.Release|x64.ActiveCfg = Release|x64
+		{F56E95B8-09A3-4083-AE12-7274D39F12DC}.Release|x64.Build.0 = Release|x64
+		{F56E95B8-09A3-4083-AE12-7274D39F12DC}.Release|x86.ActiveCfg = Release|Win32
+		{F56E95B8-09A3-4083-AE12-7274D39F12DC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
