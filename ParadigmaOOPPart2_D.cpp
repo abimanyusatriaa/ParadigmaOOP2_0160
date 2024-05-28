@@ -34,5 +34,17 @@ public:
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    seseorang* obyek;
+    joko a;
+    lia b;
+
+    obyek = &a;
+    obyek->pesan();
+    obyek = &b;
+    obyek->pesan();
+
+    //akses modifier pesan() dari class seseorang
+    //a.seseorang::pesan();
+
+    return 0;
 }
